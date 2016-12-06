@@ -12,6 +12,7 @@ Algorithms
 - [x] Merge Sort
 - [x] QuickSort
 - [x] Counting Sort
+- [x] Binary Search
 - [ ] Tree Traversals Preorder, Inorder, PostOrder. Functional and Iterative
 - [ ] Rabin Karp
 - [ ] DFS, BFS
@@ -22,5 +23,5 @@ Algorithms
 - [ ] DP problems from https://people.cs.clemson.edu/~bcdean/dp_practice/
 
 Python
-- [] Deque
-- [] Sets 
+- [ ] Deque
+- [i ] Sets 
